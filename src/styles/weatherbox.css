@@ -1,0 +1,86 @@
+#weather-box
+{
+
+  border-radius: 25px ;
+  border-color: white;
+  width: 350px;
+  height: 350px;
+  border-style: solid;
+  color: white;
+  margin: auto;
+  margin-top: 400px;
+}
+#c
+{
+  position: absolute;
+  font-size: 25px;
+}
+#feels
+{
+    position: absolute;
+    margin-top: 125px;
+    padding-left: 16px;
+    color:rgb(253, 253, 8);
+    font-size: larger;
+}
+#temp
+{
+    margin-top: 60px;
+    position: absolute;
+    font-size: 20px;
+    padding-left: 16px;
+    
+}
+#hum
+{
+  position: absolute;
+  margin-top: 190px;
+  font-size: 17px;
+  padding-left: 16px;
+
+}
+#cond
+{
+  margin-top: 90px;
+  position: absolute;
+  font-size: 20px;
+  padding-left: 16px;
+}
+#icon
+{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    padding-left: 250px;
+    
+}
+#visib
+{
+  margin-top: 200px;
+  position: absolute;
+  font-size: 17px;
+  padding-left: 16px;
+}
+#sunrise
+{
+  margin-top: 225px;
+  position: absolute;
+  font-size: 17px;
+  padding-left: 16px;
+}
+#sunset
+{
+  margin-top: 255px;
+  position: absolute;
+  font-size: 17px;
+  padding-left: 16px;
+}
+#line
+{
+
+  width: 350px;
+  height: 47px;
+  border-bottom: 3px solid white;
+  position: absolute;
+  padding-top: 120px;
+}
